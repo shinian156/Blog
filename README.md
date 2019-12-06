@@ -1,5 +1,9 @@
 # 冴羽的博客
 
+## 求简历
+
+当前社招中，欢迎来投淘宝技术部，有兴趣联系我, 微信同 Github ID
+
 ## 进度
 
 JavaScript深入系列 15 篇已完结。
@@ -8,14 +12,13 @@ JavaScript专题系列 20 篇已完结。
 
 underscore 系列 8 篇已完结。
 
+ES6 系列正在发布中……
+
 ## 专栏
 
 * [掘金主页](https://juejin.im/user/58e4b9b261ff4b006b3227f4)
 * [segmentfault主页](https://segmentfault.com/u/yayu/articles)
-
-## 其他
-
-* [知乎](https://www.zhihu.com/people/qing-feng-yi-yang/activities)
+* 新开了 [知乎专栏](https://zhuanlan.zhihu.com/c_1042806379215601664)，欢迎关注
 
 ## 深入系列目录
 
@@ -81,6 +84,23 @@ underscore 系列 8 篇已完结。
 5. [ES6 系列之迭代器与 for of](https://github.com/mqyqingfeng/Blog/issues/90)
 6. [ES6 系列之模拟实现一个 Set 数据结构](https://github.com/mqyqingfeng/Blog/issues/91)
 7. [ES6 系列之 WeakMap](https://github.com/mqyqingfeng/Blog/issues/92)
+8. [ES6 系列之我们来聊聊 Promise](https://github.com/mqyqingfeng/Blog/issues/98)
+9. [ES6 系列之 Generator 的自动执行](https://github.com/mqyqingfeng/Blog/issues/99)
+10. [ES6 系列之我们来聊聊 Async](https://github.com/mqyqingfeng/Blog/issues/100)
+11. [ES6 系列之异步处理实战](https://github.com/mqyqingfeng/Blog/issues/101)
+12. [ES6 系列之 Babel 将 Generator 编译成了什么样子](https://github.com/mqyqingfeng/Blog/issues/102)
+13. [ES6 系列之 Babel 将 Async 编译成了什么样子](https://github.com/mqyqingfeng/Blog/issues/103)
+14. [ES6 系列之 Babel 是如何编译 Class 的(上)](https://github.com/mqyqingfeng/Blog/issues/105)
+15. [ES6 系列之 Babel 是如何编译 Class 的(下)](https://github.com/mqyqingfeng/Blog/issues/106)
+16. [ES6 系列之 defineProperty 与 proxy](https://github.com/mqyqingfeng/Blog/issues/107)
+17. [ES6 系列之模块加载方案](https://github.com/mqyqingfeng/Blog/issues/108)
+18. [ES6 系列之我们来聊聊装饰器](https://github.com/mqyqingfeng/Blog/issues/109)
+19. [ES6 系列之私有变量的实现](https://github.com/mqyqingfeng/Blog/issues/110)
+20. [ES6 完全使用手册](https://github.com/mqyqingfeng/Blog/issues/111)
+
+## 友情链接
+
+1. [如何轻松拿到淘宝前端 offer](https://juejin.im/post/5bbc54a2e51d450e5a7445b4)
 
 ## 注意
 
